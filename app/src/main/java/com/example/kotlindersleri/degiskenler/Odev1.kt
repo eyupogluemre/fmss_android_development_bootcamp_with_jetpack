@@ -6,7 +6,7 @@ fun main() {
     val kita = "Asya"
     val faks = "0 (312) 525 00 77"
     val postaKod = "34225"
-    val inst = "instagram.com/michaeljackson"
+    val inst = "instagram.com/besiktas"
     val bolum = "Üretimhane"
     val urunMiktar = 50
     val musteriSoyad = "Öztürk"
